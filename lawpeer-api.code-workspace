@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../lawpeer-api"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../FYP-Admin-panel"
+		}
+	],
+	"settings": {}
+}
